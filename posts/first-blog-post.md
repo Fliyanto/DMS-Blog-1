@@ -79,5 +79,8 @@ Storyboard in this was an example from a scene in the anime "One Piece" that was
 
 ## Individual Project Story Board
 ![Storyboard2](Indivsb.PNG)
+This is a first storyboard for the individual assignment poject, this story board firstly explore the rough concept and ideas that is going to be explored within the final product. I treat this storyboard as a rough planning to gve me a significant idea or image to what the final product will look like.
+
+#Sound Design usage In The Final Assignment:
 
 
