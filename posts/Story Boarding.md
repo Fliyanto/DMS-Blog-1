@@ -5,6 +5,7 @@ snippet: Exploring The Importance Of Story Boarding And How It May Effect Your W
 disable_html_sanitization: true
 allow_math: true
 ---
+
 # Story Board Practice & First Story Board
 
 ## Youtube Example Of Story Board:
