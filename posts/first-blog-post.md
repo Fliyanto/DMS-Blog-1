@@ -61,6 +61,6 @@ A seemingly unlimited source of beverages... still wondering where those drinks 
 
 Wasn't The Golden Globe I had in mind when first hearing about it(*Was thinking of the Korean Golden Globe Awards*)...But let me tell you it is A "GRAND STATUE OF THE GOLDEN GLOBE" it is majestic in the clear sky and sunlight reflecting of it... *P.S To the person who made this scavanger hunt it's very cheeky of you this one is tough... But aint enough for us*
 
-#Sound Design usage In The Final Assignment:
+# Sound Design usage In The Final Assignment:
 
 
